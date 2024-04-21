@@ -6,6 +6,8 @@ Useful for bulk sorting of generated images into directories named after checkpo
 
 Example output:
 
+![Screenshot 2024-04-21 130958](https://github.com/brndnsmth/generation-data-model-sorter/assets/2729502/2acad27f-8298-42e5-911c-24218b65a3eb)
+
 ## Usage
 
 1. Place the images you want to process in the `images` folder.
